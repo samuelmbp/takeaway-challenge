@@ -8,5 +8,7 @@ class Takeaway
   def list_dishes
     @menu.print_dishes
   end
+
+  
 end
 
